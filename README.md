@@ -82,12 +82,16 @@ Para extrair o melhor das fontes, utilizei um processo de refinamento de prompts
 *   **Prompt 1 (Teste Inicial):** "Como posso sair das dívidas?"
     *   *Resultado:* Resposta genérica e pouco prática.
     *   *Aprendizado:* O modelo precisava de parâmetros específicos sobre o orçamento e priorização de dívidas citadas nas fontes.
-*   **Prompt 2 (Contextualizado):** "Com base nos PDFs, crie um plano para alguém que tem R$ 1.711,80 comprometidos com cartão de crédito e quer montar uma reserva."
-    *   *Resultado:* O modelo sugeriu o "ataque ao passado" (quitar parcelas) e o corte de "ralos invisíveis" como academia e presentes.
-*   **Prompt 3 (Refinado para Investimentos):** "Crie uma matriz comparativa de investimentos de defesa e ataque focando em liquidez e segurança para iniciantes."
-    *   *Resultado:* Geração de uma tabela precisa destacando o Tesouro Selic e o CDB como base de segurança.
-*   **Prompt 4 (Criando uma estratégia):** "Monte uma estratégia para quitar os cartões, criar a reserva financeira e começar a investir baseado na minha realidade: 'Inseri todos os meus ganhos e gastos mensais".
-    *   *Resultado:* Foi criada uma estratégia para que eu entenda minhas dívidas, reduza gastos desnecessários e, no tempo necessário, quite todas as dívidas para ter uma vida financeira saudável. 
+
+*   **Prompt 2 (Montar reserva):** "Como montar uma reserva de emergência e qual o valor ideal?".
+    *   *Resultado:* O resultado foi genérico pois não inseri informações suficientes sobre minha realidade financeira.
+
+*   **Prompt 3 (Contextualizando e criando uma estratégia):** "Com base nas fontes, crie um plano para alguém que tem R$ 1.711,80 comprometidos com cartão de crédito e quer montar uma reserva. Monte uma estratégia para quitar os cartões, criar a reserva financeira e começar a investir baseado na minha realidade: 'Inseri todos os meus ganhos e gastos mensais".
+    *   *Resultado:* O modelo sugeriu o "ataque ao passado" (quitar parcelas) e o corte de "ralos invisíveis". Também foi criada uma estratégia para que eu entenda minhas dívidas, reduza gastos desnecessários e, no tempo necessário, quite todas as dívidas para ter uma vida financeira saudável. 
+
+*   **Prompt 4 (Refinado para Investimentos):** "Crie uma matriz comparativa de investimentos de defesa e ataque focando em liquidez e segurança para iniciantes."
+    *   *Resultado:* Geração de uma tabela precisa destacando o Tesouro Selic e o CDB como base de segurança. Todas as sugestões foram baseadas no valor que sobra no mês atualmente e após quitar as dívidas.
+
 
 ## 🚀 Miniguia de Estudo (Entrega Final)
 
