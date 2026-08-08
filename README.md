@@ -2,11 +2,11 @@
 Projeto para o curso da DIO
 
 
-# 🛡️ Manual de Blindagem Financeira e Reserva de Paz
+# Manual de Blindagem Financeira e Reserva de Paz
 
 Este repositório contém o projeto final desenvolvido para o curso na **DIO**, utilizando o **NotebookLM** como ferramenta de inteligência analítica para consolidar estratégias de educação financeira, quitação de dívidas e investimentos iniciais.
 
-## 📝 Contexto e Objetivos
+## Contexto e Objetivos
 
 O cenário financeiro brasileiro é desafiador: **8 em cada 10 famílias estão endividadas**, e o cartão de crédito é o principal vilão, representando **90% dessas dívidas**. Muitas pessoas vivem o "Ciclo da Desgraça", onde a falta de reserva e o uso do rotativo do cartão (com juros de até 400% a.a.) impedem a construção de patrimônio.
 
@@ -16,7 +16,7 @@ O cenário financeiro brasileiro é desafiador: **8 em cada 10 famílias estão 
 *   **Estruturar a Reserva de Paz**: Criar uma base de segurança inabalável para cobrir imprevistos.
 *   **Iniciar a Jornada de Investimentos**: Diferenciar ativos de Renda Fixa e Variável para multiplicação de capital.
 
-## 📚 Curadoria de Fontes
+## Curadoria de Fontes
 
 A base de conhecimento foi construída a partir de fontes que sintetizam as metodologias de especialistas brasileiros:
 1.  **Comparativo de Ativos e Modalidades de Investimento**: Tabela técnica detalhando liquidez, riscos e o papel do Fundo Garantidor de Créditos (FGC).
@@ -75,7 +75,7 @@ Aqui está a lista de todas as **47 fontes** presentes neste notebook:
 *   **Você está triste porque não está fazendo as missões secundárias**
 *   **Você está triste porque não está fazendo as missões secundárias** (Duplicata listada no sistema)
 
-## 🧠 Engenharia de Prompts e "Cicatrizes"
+## Engenharia de Prompts e "Cicatrizes"
 
 Para extrair o melhor das fontes, utilizei um processo de refinamento de prompts:
 
@@ -93,7 +93,7 @@ Para extrair o melhor das fontes, utilizei um processo de refinamento de prompts
     *   *Resultado:* Geração de uma tabela precisa destacando o Tesouro Selic e o CDB como base de segurança. Todas as sugestões foram baseadas no valor que sobra no mês atualmente e após quitar as dívidas.
 
 
-## 🚀 Miniguia de Estudo (Entrega Final)
+## Miniguia de Estudo (Entrega Final)
 
 ### Resumo Estratégico: O Plano de 12 Meses
 A ascensão financeira segue quatro etapas fundamentais executadas sob a **Regra dos 90 Dias**, onde a disciplina deve sustentar o plano até o hábito ser formado no **40º dia**:
@@ -104,7 +104,7 @@ A ascensão financeira segue quatro etapas fundamentais executadas sob a **Regra
 4.  **Plantar o Futuro:** Após quitar dívidas, manter o padrão de vida e investir o excedente em ativos de valor.
 5.  **Apresentação em PDF/Power Point:** [Código da Riqueza Real](./CÓDIGO_DA_RIQUEZA_REAL.pdf)
 
-### 📈 Matriz de Investimentos (Resumo de Ativos)
+### Matriz de Investimentos (Resumo de Ativos)
 
 | Modalidade | Tipo | Risco | Vantagem Principal |
 | :--- | :--- | :--- | :--- |
